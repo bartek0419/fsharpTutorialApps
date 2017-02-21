@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bowling", "Bowling\Bowling.fsproj", "{250D5576-7A4D-4E67-ABAC-455FA08698A2}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bowling.console", "Bowling.console\Bowling.console.fsproj", "{2F58B048-153C-42A2-973A-99F09C192156}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".project", ".project", "{F3062E02-DF40-41AD-AE9D-90C017F44F90}"
+	ProjectSection(SolutionItems) = preProject
+		build.cmd = build.cmd
+		build.fsx = build.fsx
+		paket.dependencies = paket.dependencies
+	EndProjectSection
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "bowling.tests", "bowling.tests\bowling.tests.fsproj", "{324C6B05-DC81-4DFC-BA78-998E6B34066C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bowling.wpf", "bowling.wpf\bowling.wpf.csproj", "{60DAA61E-CDDB-4ADB-88A1-B8C1A688E886}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "bowling.web", "bowling.web\bowling.web.fsproj", "{962BFFA5-0B6D-4A3A-8F47-410F8E9FE7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{250D5576-7A4D-4E67-ABAC-455FA08698A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250D5576-7A4D-4E67-ABAC-455FA08698A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250D5576-7A4D-4E67-ABAC-455FA08698A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250D5576-7A4D-4E67-ABAC-455FA08698A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F58B048-153C-42A2-973A-99F09C192156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F58B048-153C-42A2-973A-99F09C192156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F58B048-153C-42A2-973A-99F09C192156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F58B048-153C-42A2-973A-99F09C192156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324C6B05-DC81-4DFC-BA78-998E6B34066C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324C6B05-DC81-4DFC-BA78-998E6B34066C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324C6B05-DC81-4DFC-BA78-998E6B34066C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324C6B05-DC81-4DFC-BA78-998E6B34066C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DAA61E-CDDB-4ADB-88A1-B8C1A688E886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DAA61E-CDDB-4ADB-88A1-B8C1A688E886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DAA61E-CDDB-4ADB-88A1-B8C1A688E886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DAA61E-CDDB-4ADB-88A1-B8C1A688E886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962BFFA5-0B6D-4A3A-8F47-410F8E9FE7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962BFFA5-0B6D-4A3A-8F47-410F8E9FE7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962BFFA5-0B6D-4A3A-8F47-410F8E9FE7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962BFFA5-0B6D-4A3A-8F47-410F8E9FE7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

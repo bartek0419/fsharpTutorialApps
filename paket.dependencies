@@ -1,0 +1,19 @@
+framework: net451
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core 4.0.0.1 redirects: force
+nuget Suave
+
+group Build
+    source https://www.nuget.org/api/v2
+
+    nuget FAKE
+    nuget xunit.runner.console
+
+group Tests
+    framework: net451
+    source https://www.nuget.org/api/v2
+
+    nuget FSharp.Core 4.0.0.1 redirects: force
+    nuget xUnit
+    nuget FsUnit.xUnit

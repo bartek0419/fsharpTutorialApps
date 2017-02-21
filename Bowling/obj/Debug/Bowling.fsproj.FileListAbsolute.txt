@@ -1,0 +1,7 @@
+c:\users\suq52399\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.XML
+c:\users\suq52399\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.dll
+c:\users\suq52399\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\Bowling.pdb
+c:\users\suq52399\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\FSharp.Core.dll
+c:\users\suq52399\documents\visual studio 2015\Projects\Bowling\Bowling\bin\Debug\FSharp.Core.xml
+c:\users\suq52399\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.dll
+c:\users\suq52399\documents\visual studio 2015\Projects\Bowling\Bowling\obj\Debug\Bowling.pdb

@@ -1,0 +1,14 @@
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\bowling.web.exe.config
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\bowling.web.XML
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\bowling.web.exe
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\bowling.web.pdb
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\FSharp.Core.dll
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\Suave.dll
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\FSharp.Core.xml
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\Suave.xml
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\obj\Debug\bowling.web.exe
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\obj\Debug\bowling.web.pdb
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\Bowling.dll
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\Bowling.pdb
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\bin\Debug\Bowling.xml
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.web\obj\Debug\bowling.web.fsprojResolveAssemblyReference.cache

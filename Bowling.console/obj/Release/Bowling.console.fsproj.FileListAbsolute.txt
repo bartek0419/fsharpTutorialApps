@@ -1,0 +1,7 @@
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bin\Bowling.console.exe.config
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bin\Bowling.console.exe
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bin\Bowling.console.pdb
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bin\Bowling.console.XML
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\Bowling.console\obj\Release\Bowling.console.fsprojResolveAssemblyReference.cache
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\Bowling.console\obj\Release\Bowling.console.exe
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\Bowling.console\obj\Release\Bowling.console.pdb

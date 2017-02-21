@@ -1,0 +1,33 @@
+FRAMEWORK: NET451
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FSharp.Core (4.0.0.1) - redirects: force
+    Suave (2.0.4)
+      FSharp.Core (>= 4.0.0.1)
+
+GROUP Build
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FAKE (4.50.1)
+    xunit.runner.console (2.2)
+
+GROUP Tests
+FRAMEWORK: NET451
+NUGET
+  remote: https://www.nuget.org/api/v2
+    FSharp.Core (4.0.0.1) - redirects: force
+    FsUnit.xUnit (1.4.1)
+      FSharp.Core (>= 3.1.2.5)
+      xunit (2.1)
+    xunit (2.1)
+      xunit.assert (2.1)
+      xunit.core (2.1)
+    xunit.abstractions (2.0)
+    xunit.assert (2.1)
+    xunit.core (2.1)
+      xunit.extensibility.core (2.1)
+      xunit.extensibility.execution (2.1)
+    xunit.extensibility.core (2.1)
+      xunit.abstractions (2.0)
+    xunit.extensibility.execution (2.1)
+      xunit.extensibility.core (2.1)

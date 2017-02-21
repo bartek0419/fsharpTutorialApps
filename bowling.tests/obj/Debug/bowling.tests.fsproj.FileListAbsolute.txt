@@ -1,0 +1,8 @@
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.tests\bin\Debug\bowling.tests.dll.config
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.tests\bin\Debug\bowling.tests.XML
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.tests\bin\Debug\bowling.tests.dll
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.tests\bin\Debug\bowling.tests.pdb
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.tests\bin\Debug\FSharp.Core.dll
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.tests\bin\Debug\FSharp.Core.xml
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.tests\obj\Debug\bowling.tests.dll
+c:\Users\suq52399\documents\visual studio 2015\Projects\Bowling\bowling.tests\obj\Debug\bowling.tests.pdb

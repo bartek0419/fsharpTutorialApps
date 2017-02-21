@@ -1,0 +1,7 @@
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bin\bowling.tests.dll.config
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bin\bowling.tests.dll
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bin\bowling.tests.pdb
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bin\bowling.tests.XML
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bowling.tests\obj\Release\bowling.tests.fsprojResolveAssemblyReference.cache
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bowling.tests\obj\Release\bowling.tests.dll
+C:\Users\suq52399\Documents\visual studio 2015\Projects\Bowling\bowling.tests\obj\Release\bowling.tests.pdb
